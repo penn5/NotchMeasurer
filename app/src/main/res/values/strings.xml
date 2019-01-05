@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notch Measurer</string>
+
+    <string name="rounded_corners">Rounded Corners</string>
+    <string name="notch">Notch</string>
+    <string name="click_to_move_pixel">Click to move pixel</string>
+    <string name="click_when_done">Click when only green pixel is visible</string>
+</resources>
